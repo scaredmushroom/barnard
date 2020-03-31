@@ -5,9 +5,9 @@ import (
 	"net"
 	"os"
 
-	"layeh.com/gumble/gumble"
-	"layeh.com/gumble/gumbleopenal"
-	"layeh.com/gumble/gumbleutil"
+	"github.com/scaredmushroom/gumble"
+	"github.com/scaredmushroom/gumbleopenal"
+	"github.com/scaredmushroom/gumbleutil"
 )
 
 func (b *Barnard) start() {

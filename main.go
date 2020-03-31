@@ -7,8 +7,8 @@ import (
 	"os"
 
 	"layeh.com/barnard/uiterm"
-	"layeh.com/gumble/gumble"
-	_ "layeh.com/gumble/opus"
+	"github.com/scaredmushroom/gumble"
+	_ "github.com/scaredmushroom/opus"
 )
 
 func main() {

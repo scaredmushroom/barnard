@@ -4,8 +4,8 @@ import (
 	"crypto/tls"
 
 	"layeh.com/barnard/uiterm"
-	"layeh.com/gumble/gumble"
-	"layeh.com/gumble/gumbleopenal"
+	"github.com/scaredmushroom/gumble"
+	"github.com/scaredmushroom/gumbleopenal"
 )
 
 type Barnard struct {
