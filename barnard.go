@@ -3,9 +3,9 @@ package main
 import (
 	"crypto/tls"
 
-	"layeh.com/barnard/uiterm"
-	"github.com/scaredmushroom/gumble"
-	"github.com/scaredmushroom/gumbleopenal"
+	"github.com/scaredmushroom/barnard/uiterm"
+	"github.com/scaredmushroom/gumble/gumble"
+	"github.com/scaredmushroom/gumble/gumbleopenal"
 )
 
 type Barnard struct {
