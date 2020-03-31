@@ -16,7 +16,7 @@ Requirements:
 
 To fetch and build:
 
-    go get -u layeh.com/barnard
+    go get -u github.com/scaredmushroom/barnard
 
 After running the command above, `barnard` will be compiled as `$(go env GOPATH)/bin/barnard`.
 
@@ -39,4 +39,4 @@ GPLv2
 
 ## Author
 
-Tim Cooper (<tim.cooper@layeh.com>)
+Tim Cooper (<tim.cooper@github.com/scaredmushroom>)
